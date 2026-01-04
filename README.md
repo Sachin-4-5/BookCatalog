@@ -97,7 +97,7 @@ BookStore/
 
 
 ### 📷 UI Screenshots
-![Landing Page](https://github.com/Sachin-4-5/Online_Learning_Management_System/blob/main/Output%20Images/Landing%20Page.png)
+![Landing Page](https://github.com/Sachin-4-5/BookCatalog/blob/main/BookCatalog.png)
 
 ---
 <br />
