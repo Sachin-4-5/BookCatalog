@@ -96,7 +96,7 @@ BookStore/
 
 
 
-### 📷 UI Screenshots
+### 📷 UI Screenshot
 ![Landing Page](https://github.com/Sachin-4-5/BookCatalog/blob/main/BookCatalog.png)
 
 ---
